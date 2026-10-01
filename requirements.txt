@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyterlab
+ipykernel
+ydata-profiling
+phik
+sweetviz
+mlxtend
